@@ -1,0 +1,58 @@
+.main{
+    display: flex;
+}
+
+.product{
+    margin: 2em;
+    /* background: grey; */
+    flex-direction: row;
+    display: flex;
+    border: 1rem solid;
+    border-color: blue;
+    width: 500px;
+}
+
+.content{
+    
+    width: 250px;
+    display: block;
+    justify-content:right ;
+    background-color: bisque;
+}
+
+img{
+    width: 250px;
+    border: 1em solid;
+}
+
+.rate{
+    margin: 2em;
+    display: flex;
+}
+
+label{
+    margin: 2em;
+}
+
+.bill{
+    position: sticky;
+top: 30px;
+right: 10px;
+font-size: large;
+    justify-content: center;
+    text-decoration: 2px;
+    height: 150px;
+    width:200px;
+    background-color: #ab8d8a;
+    font-weight: bolder;
+    margin-left: 3em;
+    padding: 1em;
+}
+
+.items{
+    display: flex;
+}
+
+.cost{
+    display: flex;
+}
