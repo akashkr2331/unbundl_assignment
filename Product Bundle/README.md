@@ -1,9 +1,7 @@
 # Product Bundle
 
 This is a Product Bundle project in frontend. It use 
-# html, 
-css and 
-javascript 
+# html, css and javascript 
 files for proper working.
 
 
