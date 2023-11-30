@@ -1,4 +1,6 @@
-This is a Product Byndle project in frontend. It use 
+#Product Bundle
+
+This is a Product Bundle project in frontend. It use 
 html, 
 css and 
 javascript 
